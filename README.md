@@ -25,7 +25,7 @@ My name is __Tan Yong Sheng__ from Malaysia. Currently a junior Data Engineer in
 :clipboard: - Ask me about anything, I will try my best to help.
 
 ## :crystal_ball: Currently :crystal_ball:
-- Working on Alteryx project
+- Working on Alteryx
 - Learning website deleveopment
 - Learning Adobe Illustrator & Premiere Pro
 
