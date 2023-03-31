@@ -30,8 +30,22 @@ My name is __Tan Yong Sheng__ from Malaysia. Currently a junior Data Engineer in
 - Learning Adobe Illustrator & Premiere Pro
 
 ## :book: Language & Tools :book:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
+<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
+<code>![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)</code>  
+<code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
+<code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</code>
+<code>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</code>
+<code>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</code>
+<br>
+
+## 📈 GitHub Stats 📈
+Here are some stats for you to see
+<details open>
+  <summary>:zap: Stats</summary>
+  <img alt="TanYongSheng728's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TanYongSheng728&show_icons=true&disable_animations=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanYongSheng728&layout=compact&hide=html&langs_count=10">
+</details>
 
 ## :pushpin: Contact Me :pushpin:
 <a href="https://www.instagram.com/xttysxx/">
@@ -40,3 +54,4 @@ My name is __Tan Yong Sheng__ from Malaysia. Currently a junior Data Engineer in
 <a href="https://www.linkedin.com/in/tan-yong-sheng-aa9870254">
   <img align="left" alt="Tan Yong Sheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
